@@ -4,7 +4,7 @@ Horiseon Online Marketing Website is a website that advertises services
 to their clients to do online marketing using HTML and CSS 
 
 CHANGES:
-Restructed the webpage to meet accessibility standards
+Restructuredthe webpage to meet accessibility standards
 Added HTML semantic elements
 Added alt attributes and updated title
 
